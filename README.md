@@ -1,8 +1,8 @@
-<img src="./assets/banner.png" alt="Phuc Dam — AI Full-stack Engineer · Production Conversational AI · RAG · Multi-Agent · Enterprise AWS" />
+<img src="./assets/banner.png" alt="Phuc Dam — AI Solution Architect · Production Agentic AI Systems · RAG · Multi-Agent · Enterprise AWS" />
 
 ### Hi, I'm Phuc 👋
 
-AI Engineer focused on **shipping production Conversational AI** for enterprise clients — not notebooks, not demos. **3+ years** moving multi-agent systems and RAG pipelines from POC into **AWS-native production** with end-to-end observability, semantic caching, and PII zero-trust.
+AI Solution Architect focused on **shipping production Agentic AI Systems** for enterprise clients — not notebooks, not demos. **3+ years** moving multi-agent systems and RAG pipelines from POC into **AWS-native production** with end-to-end observability, semantic caching, and PII zero-trust.
 
 ```text
 🛠️   Currently   →  Migrating HR Conversational AI for Covestro AG (Fortune 500)
@@ -18,9 +18,9 @@ AI Engineer focused on **shipping production Conversational AI** for enterprise 
 
 | Case Study | Client | Stack | Highlight |
 |---|---|---|---|
-| 🤖 [Enterprise HR Agentic Chatbot](https://maver1ch.github.io/work/hti-agentic-chatbot/) | HTI Group | LangGraph · LlamaIndex · AWS CDK | POC → enterprise AWS production |
 | 🏭 [HR Conversational AI Platform](https://maver1ch.github.io/work/fpt-hr-conversational-ai/) | Covestro AG (via FPT Software) | LangGraph · Bedrock · EventBridge · OpenSearch | Fortune 500 zero-downtime migration |
 | 📄 [AI Contract Intelligence System](https://maver1ch.github.io/work/fpt-contract-intelligence/) | FPT Software | Qdrant · Bedrock · Skill-based · Prompt Chaining | **+35% extraction accuracy** |
+| 🤖 [Enterprise HR Agentic Chatbot](https://maver1ch.github.io/work/hti-agentic-chatbot/) | HTI Group | LangGraph · LlamaIndex · AWS CDK | POC → enterprise AWS production |
 
 ---
 

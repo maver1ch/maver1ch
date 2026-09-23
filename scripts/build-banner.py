@@ -82,7 +82,7 @@ def main() -> None:
     font_meta = ImageFont.truetype(FONT_BOLD, 18)
 
     # Eyebrow
-    draw.text((PAD_X, 70), "AI FULL-STACK ENGINEER", fill=ACCENT_PRIMARY, font=font_eyebrow)
+    draw.text((PAD_X, 70), "AI SOLUTION ARCHITECT", fill=ACCENT_PRIMARY, font=font_eyebrow)
 
     # Name
     draw.text((PAD_X, 105), "Phuc Dam", fill=TEXT_PRIMARY, font=font_name)
@@ -90,7 +90,7 @@ def main() -> None:
     # Tagline
     draw.text(
         (PAD_X, 200),
-        "Production Conversational AI  ·  RAG  ·  Multi-Agent  ·  Enterprise AWS",
+        "Production Agentic AI Systems  ·  RAG  ·  Multi-Agent  ·  Enterprise AWS",
         fill=TEXT_SECONDARY,
         font=font_tagline,
     )
